@@ -16,7 +16,6 @@
     animation: flicker 1.5s infinite alternate;     
   }
   
-  /* Flickering animation */
   @keyframes flicker {
       
     0%, 18%, 22%, 25%, 53%, 57%, 100% {
@@ -39,7 +38,6 @@
   }
   
   
-  /* Additional styling */
     
   h2 {
    font-size: 1.8rem;
